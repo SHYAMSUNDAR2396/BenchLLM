@@ -1,0 +1,50 @@
+{
+  "reasoning": [
+    "If all roses are flowers and some flowers fade quickly, can we conclude some roses fade quickly? Explain step by step.",
+    "A bat and ball cost $1.10 total. The bat costs $1 more than the ball. How much does the ball cost?",
+    "Three switches control three bulbs in another room. You may enter the room once. How do you determine which switch controls which bulb?",
+    "Is it possible for a set to contain itself? Discuss Russell's paradox in plain language.",
+    "You have 12 coins, one counterfeit (lighter or heavier unknown). Find it in 3 weighings using a balance scale.",
+    "Explain the Monty Hall problem and why switching doors wins more often.",
+    "What is the difference between correlation and causation? Give a concrete example.",
+    "If time travel to the past were possible, what logical paradoxes arise?",
+    "How would you prove sqrt(2) is irrational using proof by contradiction?",
+    "A farmer needs to cross a river with a wolf, goat, and cabbage. Describe the valid sequence."
+  ],
+  "coding": [
+    "Write a Python function to detect a cycle in a linked list.",
+    "Implement binary search on a sorted array in JavaScript.",
+    "Explain Big-O time complexity of merge sort and quicksort.",
+    "Write a SQL query to find the second highest salary per department.",
+    "How do you implement a thread-safe singleton in Java?",
+    "Write a Rust function that reverses a string without extra allocation.",
+    "Explain the difference between async/await and threads in Python.",
+    "Implement LRU cache with O(1) get and put in pseudocode.",
+    "What is a deadlock and how do you prevent it in distributed systems?",
+    "Write a regex to validate an email address and explain edge cases."
+  ],
+  "summarization": [
+    "Summarize the plot of Romeo and Juliet in three sentences.",
+    "Summarize the main ideas of the Agile Manifesto.",
+    "Give a one-paragraph summary of how photosynthesis works.",
+    "Summarize the causes and effects of the 2008 financial crisis.",
+    "Condense the history of the internet into five bullet points.",
+    "Summarize key findings from a hypothetical study on remote work productivity.",
+    "Provide a brief summary of GDPR's core principles for developers.",
+    "Summarize the book '1984' without spoilers beyond chapter 3.",
+    "Summarize differences between TCP and UDP for a technical audience.",
+    "Give a three-sentence summary of climate change mitigation strategies."
+  ],
+  "creative": [
+    "Write a haiku about compiling code at 2am.",
+    "Invent a short sci-fi story about an AI that only runs offline.",
+    "Describe a fantasy city powered entirely by wind and stories.",
+    "Write dialogue between a debugger and a segfault.",
+    "Create a product tagline for a privacy-first local LLM assistant.",
+    "Write a limerick about forgetting a semicolon.",
+    "Describe a museum exhibit for obsolete programming languages.",
+    "Invent three names for a startup that runs models on laptops.",
+    "Write a letter from a GPU to its owner after a long training run.",
+    "Compose a micro-fiction where rain is made of hexadecimal."
+  ]
+}

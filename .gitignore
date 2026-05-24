@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+ui/node_modules/
+ui/dist/
+benchmark/results/*.json
+comparison/outputs/*.json
+structured/outputs/*.json
+.DS_Store
